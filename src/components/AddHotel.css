@@ -1,0 +1,13 @@
+.background-image {
+    background-image: url('C:\Users\348066\Desktop\HOTEL\hotelbook\src\assets\lesirenuse-hotel-positano-1.jpg'); /* Use your GIF path */
+    background-size: cover;
+    background-position: center;
+    height: 138vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 0px;
+   
+  }
+  

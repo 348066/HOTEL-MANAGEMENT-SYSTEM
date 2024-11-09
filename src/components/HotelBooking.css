@@ -1,0 +1,76 @@
+.booking-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100; /* Full viewport height */
+    width: 400;
+    color: white; /* For better readability */
+    text-align: center;
+    background-image: url('https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); /* Background image */
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background */
+}
+.booking-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+    color: white; /* Or any contrasting color for better readability */
+    text-align: center;
+}
+
+.booking-form {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 125px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    letter-spacing: 3.5px; /* Adjust letter spacing here */
+}
+
+.booking-form div {
+    margin-bottom: 15px;
+}
+.input-row {
+    display: flex;
+    justify-content: space-between; /* Space in between the children */
+
+}
+
+.input-group {
+    flex: 1; /* Take equal space */
+    margin-right: 40px; /* Space between the two input groups */
+}
+
+.input-group:last-child {
+    margin-right: 0; /* Remove margin for the last item */
+}
+
+
+.booking-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.booking-form input,
+.booking-form select {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+.booking-form button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.booking-form button:hover {
+    background-color: #218838;
+}

@@ -1,0 +1,10 @@
+.background {
+  background-image: url('C:\Users\348066\Desktop\HOTEL\hotelbook\src\assets\60e47d67d7ff95f7bba8c612d4d23218.gif'); /* Use your GIF path */
+  background-size: cover;
+  background-position: center;
+  height: 138vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}

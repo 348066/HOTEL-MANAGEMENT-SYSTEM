@@ -1,0 +1,67 @@
+/* ReviewSystem.css */
+
+.container {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://img.freepik.com/premium-photo/close-up-woman-customer-giving-five-star-rating-smartphone-review-service-rating-satisfaction-customer-service-experience-satisfaction-survey-concept_59017-695.jpg?ga=GA1.1.1750793307.1729235772&semt=ais_hybrid'); /* Adjust the path as necessary */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+  }
+  
+  .container {
+    margin-top: 2rem;
+    background-color: rgba(255, 255, 255, 0.9); /* Optional: Add a white background with some transparency for contrast */
+    padding: 30px; /* Add some padding */
+    border-radius: 8px; /* Optional: Round corners */
+  }
+  
+  .review-section {
+    margin-top: 2rem;
+  }
+  
+  .review-form {
+    padding: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .rating {
+    display: flex;
+    cursor: pointer;
+  }
+  
+  .rating span {
+    margin-right: 4px;
+  }
+  
+  .review-item {
+    padding: 16px;
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.9); /* Background for review items */
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+  }
+  
+  .review-item h6 {
+    margin: 0;
+  }
+  
+  .review-actions {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .reply-input {
+    margin: 0 10px;
+    flex-grow: 1;
+  }
+  
+  .replies {
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  
+  .reply-text {
+    color: gray;
+  }

@@ -1,0 +1,103 @@
+
+.payment-container {
+
+  margin: 0;
+  padding: 0;
+  
+  height: 50vh; /* Full viewport height */
+  width: 30%; /* Full viewport width */
+  background-image: url('https://example.com/your-background-image.jpg'); /* Replace with your image URL */
+  }
+.full-container{
+  background-image: url('https://media.istockphoto.com/id/1711144461/photo/credit-card-security-concept-credit-card-encryption.webp?a=1&b=1&s=612x612&w=0&k=20&c=E2-HK_VJY0b3N_Nbg6DROrQdFoLCz8f-WejKJKOMH7M='); /* Replace with your image URL */
+  background-size: cover; /* Cover the whole area */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent repeating */
+  height: 100vh; /* Full viewport height */
+  width: 100vw; 
+  padding-top: 120px;
+
+}
+.payment-container {
+  max-width: 400px;
+  margin: auto; /* Center the payment container */
+  padding: 20px;
+  background-color: rgba(40, 48, 66, 0.918); /* Light background for readability */
+  border-radius: 12px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: shadow for depth */
+  position: relative; /* For position context */
+  z-index: 1; /* Ensure it is above the background */
+}
+
+.card {
+  background-color: rgba(41, 43, 44, 0.85); /* Semi-transparent card background */
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+/* Other existing CSS styles remain the same */
+
+.card-details {
+  text-align: center;
+}
+
+.card-number {
+  font-size: 1.2em;
+  letter-spacing: 2px;
+  margin-top: 20px;
+}
+
+.card-holder-name {
+  margin-top: 10px;
+  font-size: 1em;
+}
+
+.expiry-cvc {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.payment-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.expiry-cvc-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.submit-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #45a049;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+
+.success-message {
+  color: green;
+  margin-top: 10px;
+}
