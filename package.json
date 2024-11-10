@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "hotelbook",
   "private": true,
   "version": "0.0.0",
@@ -50,4 +51,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.6"
+  }
+>>>>>>> 4eb52ec04f8e85e94b8cfac3d442f9547842fbf9
 }
