@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\models\\emtities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\models\\emtities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.payments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241109070253_Initial2 Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HOTtEl\\Migrations\\20241109070253_Initial2 Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\controllers\\newregcuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\controllers\\newregcuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\models\\emtities\\addrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\models\\emtities\\addrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\models\\emtities\\logincustdtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\models\\emtities\\logincustdtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\models\\emtities\\newregcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\models\\emtities\\newregcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\models\\emtities\\bookingdtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\models\\emtities\\bookingdtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.bookingDtls.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\controllers\\bookingdtlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\controllers\\bookingdtlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.newRegCuss.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\migrations\\20241108124936_initial1 migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\migrations\\20241108124936_initial1 migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\migrations\\20241027122126_fourth-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\migrations\\20241027122126_fourth-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\migrations\\20241027072130_third-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\migrations\\20241027072130_third-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\migrations\\20241027055648_second-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\migrations\\20241027055648_second-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\controllers\\addhotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\controllers\\addhotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\models\\emtities\\addcustdtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\models\\emtities\\addcustdtl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.addRoomss.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.addHotels.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\controllers\\addroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\controllers\\addroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|c:\\users\\348066\\desktop\\hottel1\\hottel1\\hottel\\hottel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9BCD8003-6BF1-4D17-BCDE-76059C15C111}|HOTtEl\\HOTtEl.csproj|solutionrelative:hottel\\hottel.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.payments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.payments.sql",
+              "ToolTip": "dbo.payments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-09T07:04:00.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241109070253_Initial2 Migration.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241109070253_Initial2 Migration.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Migrations\\20241109070253_Initial2 Migration.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241109070253_Initial2 Migration.cs",
+              "RelativeToolTip": "HOTtEl\\Migrations\\20241109070253_Initial2 Migration.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T07:02:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\Payment.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Models\\Emtities\\Payment.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\Payment.cs",
+              "RelativeToolTip": "HOTtEl\\Models\\Emtities\\Payment.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:23:03.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "HOTtEl\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvygAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:52:14.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HOTtEl\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:50:30.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewRegCusController.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\NewRegCusController.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Controllers\\NewRegCusController.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\NewRegCusController.cs",
+              "RelativeToolTip": "HOTtEl\\Controllers\\NewRegCusController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:42:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddRooms.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\AddRooms.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Models\\Emtities\\AddRooms.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\AddRooms.cs",
+              "RelativeToolTip": "HOTtEl\\Models\\Emtities\\AddRooms.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:46:16.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HOTtEl\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:58:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewRegcus.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\NewRegcus.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Models\\Emtities\\NewRegcus.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\NewRegcus.cs",
+              "RelativeToolTip": "HOTtEl\\Models\\Emtities\\NewRegcus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:48:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginCustDtl.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\LoginCustDtl.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Models\\Emtities\\LoginCustDtl.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\LoginCustDtl.cs",
+              "RelativeToolTip": "HOTtEl\\Models\\Emtities\\LoginCustDtl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:10:15.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingDtl.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\BookingDtl.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Models\\Emtities\\BookingDtl.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\BookingDtl.cs",
+              "RelativeToolTip": "HOTtEl\\Models\\Emtities\\BookingDtl.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:50:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.bookingDtls [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.bookingDtls.sql",
+              "ToolTip": "dbo.bookingDtls [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-27T12:41:09.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.newRegCuss [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.newRegCuss.sql",
+              "ToolTip": "dbo.newRegCuss [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T10:18:31.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDtlController.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\BookingDtlController.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Controllers\\BookingDtlController.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\BookingDtlController.cs",
+              "RelativeToolTip": "HOTtEl\\Controllers\\BookingDtlController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:01:09.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241027122126_Fourth-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241027122126_Fourth-Migration.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Migrations\\20241027122126_Fourth-Migration.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241027122126_Fourth-Migration.cs",
+              "RelativeToolTip": "HOTtEl\\Migrations\\20241027122126_Fourth-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:21:26.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241108124936_Initial1 Migration.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241108124936_Initial1 Migration.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Migrations\\20241108124936_Initial1 Migration.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241108124936_Initial1 Migration.cs",
+              "RelativeToolTip": "HOTtEl\\Migrations\\20241108124936_Initial1 Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:49:36.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HOTtEl\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAswJkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:42:15.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241027072130_third-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241027072130_third-Migration.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Migrations\\20241027072130_third-Migration.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241027072130_third-Migration.cs",
+              "RelativeToolTip": "HOTtEl\\Migrations\\20241027072130_third-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:15:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241027055648_Second-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241027055648_Second-Migration.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Migrations\\20241027055648_Second-Migration.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Migrations\\20241027055648_Second-Migration.cs",
+              "RelativeToolTip": "HOTtEl\\Migrations\\20241027055648_Second-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:15:12.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Program.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Program.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Program.cs",
+              "RelativeToolTip": "HOTtEl\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:13:27.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\appsettings.json",
+              "RelativeDocumentMoniker": "HOTtEl\\appsettings.json",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\appsettings.json",
+              "RelativeToolTip": "HOTtEl\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T10:16:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddHotelController.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\AddHotelController.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Controllers\\AddHotelController.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\AddHotelController.cs",
+              "RelativeToolTip": "HOTtEl\\Controllers\\AddHotelController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:01:18.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddCustDtl.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\AddCustDtl.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Models\\Emtities\\AddCustDtl.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Models\\Emtities\\AddCustDtl.cs",
+              "RelativeToolTip": "HOTtEl\\Models\\Emtities\\AddCustDtl.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:47:49.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\WeatherForecast.cs",
+              "RelativeToolTip": "HOTtEl\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:29:48.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.addHotels [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.addHotels.sql",
+              "ToolTip": "dbo.addHotels [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T10:17:46.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.addRoomss [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/krishna_DB/True/SqlTable/dbo.addRoomss.sql",
+              "ToolTip": "dbo.addRoomss [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T10:17:50.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\AddRoomController.cs",
+              "RelativeDocumentMoniker": "HOTtEl\\Controllers\\AddRoomController.cs",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\Controllers\\AddRoomController.cs",
+              "RelativeToolTip": "HOTtEl\\Controllers\\AddRoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:42:23.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HOTtEl",
+              "DocumentMoniker": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\HOTtEl.csproj",
+              "RelativeDocumentMoniker": "HOTtEl\\HOTtEl.csproj",
+              "ToolTip": "C:\\Users\\348066\\Desktop\\HOTtEl1\\HOTtEl1\\HOTtEl\\HOTtEl.csproj",
+              "RelativeToolTip": "HOTtEl\\HOTtEl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T09:23:01.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
